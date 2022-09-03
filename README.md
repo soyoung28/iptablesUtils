@@ -15,7 +15,7 @@ wget --no-check-certificate -qO natcfg.sh https://www.arloor.com/sh/iptablesUtil
 或
 
 ```
-wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/arloor/iptablesUtils/master/natcfg.sh && bash natcfg.sh
+wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/soyoung28/iptablesUtils/master/natcfg.sh && bash natcfg.sh
 ```
 
 输出如下：
